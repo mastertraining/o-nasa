@@ -55,6 +55,52 @@ note: September 1962, JFK has speech at Rice University.
 
 ---
 
+## Software Industry Today
+
+* CMMi
+* ISO 27001
+* ITSQB
+* ITIL
+* EA
+* PMP
+* SOA
+* etc (CISSP, CCNA, MCP)
+
++++
+
+### EA
+
+* TOGAF
+* Zachman
+* IEEE
+
++++
+
+### SOA
+
+* OASIS
+* TOGAF
+* IEEE
+
+---
+
+## Agile World
+
+* XP
+* Scrum
+* DevOps
+* Micro Services
+
+---
+
+## Passion is important
+
+![Passion may change the world](assets/image/jobsquote.jpg)
+
+note: Image from https://atebabesgardenofquotesmessages.wordpress.com/2016/06/26/10-things-you-should-know-about-passion-2/
+
+---
+
 ### Questions?
 
 <br>
